@@ -79,9 +79,9 @@ local RayfieldLibrary = {
 			ElementStroke = Color3.fromRGB(180, 199, 97),
 			SecondaryElementStroke = Color3.fromRGB(40, 40, 40), -- For labels and paragraphs
 
-			SliderBackground = Color3.fromRGB(31, 159, 71),
-			SliderProgress = Color3.fromRGB(31, 159, 71),
-			SliderStroke = Color3.fromRGB(42, 216, 94),
+			SliderBackground = Color3.fromRGB(220, 0, 0),
+			SliderProgress = Color3.fromRGB(220, 0, 0),
+			SliderStroke = Color3.fromRGB(255, 0, 0),
 
 			ToggleBackground = Color3.fromRGB(170, 203, 60),
 			ToggleEnabled = Color3.fromRGB(32, 214, 29),
